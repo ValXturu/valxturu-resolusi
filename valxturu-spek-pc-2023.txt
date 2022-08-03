@@ -5,3 +5,4 @@ RENCANA SPEK PC 2023
 - Adata D50 White 2x16GB 3600mhz
 - VGA GTX 1650 super
 - Keyboard & Mouse Vigor GK30 & Clutch11
+- SSD M.2 NVME 512gb
